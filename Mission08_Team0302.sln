@@ -1,6 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission08_Team0302", "Mission08_Team0302\Mission08_Team0302.csproj", "{9B6D8544-B297-47A9-BE89-802BCC339D6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DB4FE2F-89C9-42A7-AF47-12344EAE445D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +20,8 @@ Global
 		{9B6D8544-B297-47A9-BE89-802BCC339D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B6D8544-B297-47A9-BE89-802BCC339D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B6D8544-B297-47A9-BE89-802BCC339D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

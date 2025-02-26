@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Mission08_Team0302/obj/Debug/net8.0/Mission08_Team0302.AssemblyInfo.cs
+/Mission08_Team0302/obj/Debug/net8.0/Mission08_Team0302.AssemblyInfoInputs.cache
+/Mission08_Team0302/obj/Debug/net8.0/Mission08_Team0302.assets.cache
+/Mission08_Team0302/obj/Debug/net8.0/Mission08_Team0302.GeneratedMSBuildEditorConfig.editorconfig
+/Mission08_Team0302/obj/Mission08_Team0302.csproj.nuget.dgspec.json
+/Mission08_Team0302/obj/Mission08_Team0302.csproj.nuget.g.props
+/Mission08_Team0302/obj/project.assets.json
+/Mission08_Team0302/obj/project.nuget.cache
+/Mission08_Team0302/obj/Mission08_Team0302.csproj.nuget.dgspec.json
+/Mission08_Team0302/obj/Mission08_Team0302.csproj.nuget.g.props
+/Mission08_Team0302/obj/project.assets.json
+/Mission08_Team0302/obj/project.nuget.cache
+/Mission08_Team0302/obj/Debug/net8.0/Mission08_Team0302.AssemblyInfoInputs.cache
+/Mission08_Team0302/obj/Debug/net8.0/Mission08_Team0302.AssemblyInfo.cs
+/Mission08_Team0302/obj/Debug/net8.0/Mission08_Team0302.assets.cache
+/Mission08_Team0302/obj/Debug/net8.0/Mission08_Team0302.GeneratedMSBuildEditorConfig.editorconfig
